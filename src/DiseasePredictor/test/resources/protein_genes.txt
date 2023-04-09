@@ -1,0 +1,5 @@
+protein,gene
+prot1,gene1
+prot2,gene2
+prot3,gene3
+prot4,gene4

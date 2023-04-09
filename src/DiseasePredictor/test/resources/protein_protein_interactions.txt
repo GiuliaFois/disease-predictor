@@ -1,0 +1,5 @@
+prot1,prot2,score
+prot1,prot2,5
+prot1,prot3,4.67
+prot1,prot4,0
+prot2,prot4,1

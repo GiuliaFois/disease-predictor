@@ -1,0 +1,13 @@
+[project]
+name = "disease_predictor"
+version = "1.0.0"
+authors = [
+  { name="Giulia Fois", email="giuliafois5@gmail.com" },
+]
+description = "A package to rank genes in relation to a disease based on a PPI network"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
